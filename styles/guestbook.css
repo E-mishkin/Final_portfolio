@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(245, 245, 245);
+}
+
+#main {
+    background-color: white;
+    margin: 0 7em;
+    padding: 3.5em;
+}
+
+.err {
+    visibility: hidden;
+    color: red;
+    font-size: 70%;
+}
+
+#chooseMail {
+    display: none;
+}
+
+#otherForm {
+    display: none;
+}
